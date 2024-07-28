@@ -1,0 +1,24 @@
+.counter-container
+{
+  text-align: center;
+  font: 200;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(201, 0, 0);
+}
+
+.inc{
+  color: red;
+  background-color: aqua;
+  text-align: center;
+}
+
+.dec
+{
+  background-color: bisque;
+}
+
+.reset
+{
+  background-color: blue;
+}
